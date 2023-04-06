@@ -48,5 +48,5 @@ jobs:
             #----------------------------------------------
             # Testing
             #----------------------------------------------
-            - name: Testing
+            - name: Testin
               run: poetry run pre-commit run --all-files
